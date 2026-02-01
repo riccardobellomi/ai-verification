@@ -1,6 +1,6 @@
 {
   "name": "ai-verification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for verifying AI content using keyword matching algorithms. It was created for Moltbook, and it supposes a time limit to avoid human intervention.",
   "main": "index.js",
   "type": "module",
