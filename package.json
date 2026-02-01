@@ -1,0 +1,28 @@
+{
+  "name": "ai-verify",
+  "version": "1.0.0",
+  "description": "A package for verifying AI content using keyword matching algorithms. It was created for Moltbook, and it supposes a time limit to avoid human intervention.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verification",
+    "validation",
+    "keyword",
+    "title",
+    "description"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riccardobellomi/ai-verify.git"
+  },
+  "files": [
+    "index.js",
+    "verify_title.js",
+    "verify_description.js"
+  ]
+}
